@@ -16,9 +16,9 @@ Le but du travail est de réaliser une **carte en symboles proportionnels color�
 - Croissance de la population
 - Structure d’âge de la population
 
-La région d’étude correspond aux **régions de la Nouvelle-Zélande**. Une image du fond de carte se trouve dans le fichier [new-zealand-regions-map.jpeg](new-zealand-regions-map.jpeg). Le fond de carte devra être créé selon les instructions données dans l'exercice 4.
+La région d’étude correspond aux **boroughs et census areas de l'Alaska**. Une image du fond de carte se trouve dans le fichier [new-zealand-regions-map.jpeg](new-zealand-regions-map.jpeg). Le fond de carte devra être créé selon les instructions données dans l'exercice 4.
 
-Les données statistiques de base se trouvent dans le fichier Excel fourni ([NZ-regions-statdata.xlsx](NZ-regions-statdata.xlsx)). Le fichier contient une série de variables de base provenant du Recensement de la population d’années différentes. Un onglet _«indicateurs»_ liste les différentes thématiques et propose des indicateurs correspondants. **Chaque étudiant choisira un indicateur dans la liste** selon ses préférences personnelles, afin de colorer les symboles proportionnels. **L'étudiant choisira également une seconde variable liée à l'indicateur sélectionné**, pour donner une taille aux symboles proportionnels. La première variable sera une variable relative, et la deuxième une variable absolue.
+Les données statistiques de base se trouvent dans le fichier Excel fourni ([NZ-regions-statdata.xlsx](NZ-regions-statdata.xlsx)). Le fichier contient une série de variables de base provenant du Recensement de la population d’années différentes. Un onglet _«indicateurs»_ liste les différentes thématiques et propose des indicateurs correspondants. **Chaque étudiant choisira un indicateur dans la liste** selon ses préférences personnelles, afin de colorer les symboles proportionnels. **L'étudiant choisira également une seconde variable liée à l'indicateur sélectionné**, pour donner une taille aux symboles proportionnels. La première variable sera une variable relative, et la deuxième une variable absolue.
 
 Le calcul des indicateurs est expliqué dans l'exercice 5.
 
@@ -33,10 +33,10 @@ Le calendrier ci-dessous définit les différentes étapes du travail telles que
 
 | Date   | Étape de travail |
 |:------:|------------------|
-| 10.10. | Explications travail pratique.<br>Préparation du fond de carte. |
-| 17.10. | Sélection des variables à cartographier.<br>Calcul de l'indicateur.<br>Mise en classes. |
-| 31.10.  | Création des symboles proportionnels.<br>Coloriage des symboles.<br>Ajout des éléments de décoration depuis le template. |
-| 14.11. | Rendu du travail pratique 1 (sur Moodle).
+| 09.10. | Explications travail pratique.<br>Préparation du fond de carte. |
+| 16.10. | Sélection des variables à cartographier.<br>Calcul de l'indicateur.<br>Mise en classes. |
+| 30.10.  | Création des symboles proportionnels.<br>Coloriage des symboles.<br>Ajout des éléments de décoration depuis le template. |
+| 13.11. | Rendu du travail pratique 1 (sur Moodle).
 
 
 ## 4. Rendu
